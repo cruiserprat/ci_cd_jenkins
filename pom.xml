@@ -43,13 +43,6 @@
 			</exclusions>
 		</dependency>
 
-		<dependency>
-			<groupId>com.paycraft</groupId>
-			<artifactId>ojdbc</artifactId>
-			<version>12.0.1</version>
-		</dependency>
-	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
